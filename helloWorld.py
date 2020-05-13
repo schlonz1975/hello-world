@@ -8,6 +8,7 @@ def hello_world(name):
 
 hello_world("Jens")
 hello_world("John")
+hello_world("Peter")
 
 
 
